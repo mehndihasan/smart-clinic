@@ -1,0 +1,212 @@
+2025-12-25 19:56:09 [auth-service] info: Connected to MongoDB database
+2025-12-25 19:56:09 [auth-service] info: auth-service is running on port 3001
+2025-12-25 19:57:16 [auth-service] info: Connected to MongoDB database
+2025-12-25 19:57:16 [auth-service] info: auth-service is running on port 3001
+2025-12-25 19:57:45 [auth-service] error: Error connecting to MongoDB database: options usenewurlparser, useunifiedtopology are not supported
+2025-12-25 19:59:45 [auth-service] error: Error connecting to MongoDB database: options usenewurlparser, useunifiedtopology are not supported
+2025-12-25 19:59:45 [auth-service] info: auth-service is running on port 3001
+2025-12-25 20:19:44 [auth-service] error: Error connecting to MongoDB database: options usenewurlparser, useunifiedtopology are not supported
+2025-12-25 20:19:44 [auth-service] info: auth-service is running on port 3001
+2025-12-25 20:22:41 [auth-service] info: Connected to MongoDB database
+2025-12-25 20:22:41 [auth-service] info: auth-service is running on port 3001
+2025-12-26 23:29:48 [auth-service] info: Connected to MongoDB database
+2025-12-26 23:29:48 [auth-service] info: auth-service is running on port 3001
+2025-12-26 23:34:35 [auth-service] info: Connected to MongoDB database
+2025-12-26 23:34:35 [auth-service] info: auth-service is running on port 3001
+2025-12-26 23:38:18 [auth-service] info: Connected to MongoDB database
+2025-12-26 23:38:18 [auth-service] info: auth-service is running on port 3001
+2025-12-26 23:41:07 [auth-service] info: Connected to MongoDB database
+2025-12-26 23:41:07 [auth-service] info: auth-service is running on port 3001
+2025-12-26 23:45:52 [auth-service] info: Connected to MongoDB database
+2025-12-26 23:45:52 [auth-service] info: auth-service is running on port 3001
+2025-12-26 23:50:32 [auth-service] info: Connected to MongoDB database
+2025-12-26 23:50:32 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:00:59 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:00:59 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:02:31 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:02:31 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:03:56 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:03:56 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:11:25 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:11:25 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:12:10 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:12:10 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:19:52 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:19:52 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:22:17 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:22:17 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:22:55 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:22:55 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:24:27 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:24:27 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:24:48 [auth-service] info: ExpiresIn ---
+2025-12-27 00:26:34 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:26:34 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:26:53 [auth-service] info: ExpiresIn --- your-super-secret-jwt-key-change-in-production
+2025-12-27 00:27:57 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:27:57 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:28:19 [auth-service] info: ExpiresIn --- 24h
+2025-12-27 00:28:19 [auth-service] info: New user registered: prem@gmail.com
+2025-12-27 00:29:24 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:29:24 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:29:45 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:29:45 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:31:12 [auth-service] info: ExpiresIn --- 24h
+2025-12-27 00:31:12 [auth-service] info: New user registered: deepak@gmail.com
+2025-12-27 00:32:21 [auth-service] info: ExpiresIn --- 24h
+2025-12-27 00:32:21 [auth-service] info: User logged in: deepak@gmail.com
+2025-12-27 00:33:32 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:33:32 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:34:03 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:34:03 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:38:31 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:38:31 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:39:35 [auth-service] info: User logged out: deepak@gmail.com
+2025-12-27 00:40:06 [auth-service] info: User logged out: deepak@gmail.com
+2025-12-27 00:40:07 [auth-service] info: User logged out: deepak@gmail.com
+2025-12-27 00:46:07 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:46:07 [auth-service] info: auth-service is running on port 3001
+2025-12-27 00:51:28 [auth-service] info: Connected to MongoDB database
+2025-12-27 00:51:28 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:04:28 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:04:28 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:05:27 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:05:27 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:09:35 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:09:35 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:11:04 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:11:04 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:11:07 [auth-service] error: Error: User with this email already exists
+2025-12-27 01:12:16 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:12:16 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:12:20 [auth-service] error: Error: User with this email already exists
+2025-12-27 01:12:38 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:12:38 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:12:40 [auth-service] error: Error: User with this email already exists
+2025-12-27 01:14:32 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:14:32 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:14:35 [auth-service] error: Error: Invalid access token
+2025-12-27 01:15:51 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:15:51 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:21:00 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:21:00 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:21:03 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:21:27 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:21:43 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:22:42 [auth-service] error: Error: Invalid access token
+2025-12-27 01:23:59 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:24:07 [auth-service] info: ExpiresIn --- 24h
+2025-12-27 01:24:07 [auth-service] info: User logged in: deepak@gmail.com
+2025-12-27 01:24:25 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:24:26 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:24:26 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:26:08 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:26:49 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:26:49 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:26:53 [auth-service] info: [object Object]
+2025-12-27 01:26:53 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:27:23 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:27:23 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:27:27 [auth-service] info: {
+  _id: new ObjectId('694edb78c680b75ab2b436de'),
+  email: 'deepak@gmail.com',
+  firstName: 'deepak',
+  lastName: 'kumar',
+  roles: [ 'doctor' ],
+  status: [ 'active' ],
+  createdAt: 2025-12-26T19:01:12.463Z,
+  updatedAt: 2025-12-26T19:54:07.646Z,
+  __v: 0,
+  lastLogin: 2025-12-26T19:54:07.645Z,
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTRlZGI3OGM2ODBiNzVhYjJiNDM2ZGUiLCJpYXQiOjE3NjY3Nzg4NDcsImV4cCI6MTc2NzM4MzY0NywiaXNzIjoiYXV0aC1zZXJ2aWNlIn0.3kF0djdOvKS5RAXEsrIww3MEIbMf4PgBJcCPRSuxeRs'
+}
+2025-12-27 01:27:27 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:28:54 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:28:54 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:28:57 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:29:29 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:29:29 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:29:35 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:30:23 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:30:23 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:30:27 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:30:37 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:30:37 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:30:39 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:30:58 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:30:58 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:30:59 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:14 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:31:14 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:31:17 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:24 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:31:24 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:31:28 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:40 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:31:40 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:31:43 [auth-service] info: {
+  _id: new ObjectId('694edb78c680b75ab2b436de'),
+  email: 'deepak@gmail.com',
+  firstName: 'deepak',
+  lastName: 'kumar',
+  roles: [ 'doctor' ],
+  status: [ 'active' ],
+  createdAt: 2025-12-26T19:01:12.463Z,
+  updatedAt: 2025-12-26T19:54:07.646Z,
+  __v: 0,
+  lastLogin: 2025-12-26T19:54:07.645Z,
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTRlZGI3OGM2ODBiNzVhYjJiNDM2ZGUiLCJpYXQiOjE3NjY3Nzg4NDcsImV4cCI6MTc2NzM4MzY0NywiaXNzIjoiYXV0aC1zZXJ2aWNlIn0.3kF0djdOvKS5RAXEsrIww3MEIbMf4PgBJcCPRSuxeRs'
+}
+2025-12-27 01:31:43 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:53 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:31:53 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:31:56 [auth-service] info: {
+  _id: new ObjectId('694edb78c680b75ab2b436de'),
+  email: 'deepak@gmail.com',
+  firstName: 'deepak',
+  lastName: 'kumar',
+  roles: [ 'doctor' ],
+  status: [ 'active' ],
+  createdAt: 2025-12-26T19:01:12.463Z,
+  updatedAt: 2025-12-26T19:54:07.646Z,
+  __v: 0,
+  lastLogin: 2025-12-26T19:54:07.645Z,
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTRlZGI3OGM2ODBiNzVhYjJiNDM2ZGUiLCJpYXQiOjE3NjY3Nzg4NDcsImV4cCI6MTc2NzM4MzY0NywiaXNzIjoiYXV0aC1zZXJ2aWNlIn0.3kF0djdOvKS5RAXEsrIww3MEIbMf4PgBJcCPRSuxeRs'
+}
+2025-12-27 01:31:56 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:32:07 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:32:07 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:32:11 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:36:28 [auth-service] info: Connected to MongoDB database
+2025-12-27 01:36:28 [auth-service] info: auth-service is running on port 3001
+2025-12-27 01:36:39 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:36:56 [auth-service] info: ExpiresIn --- 24h
+2025-12-27 01:36:56 [auth-service] info: New user registered: deepak@gmail.com
+2025-12-27 01:37:05 [auth-service] info: ExpiresIn --- 24h
+2025-12-27 01:37:05 [auth-service] info: User logged in: deepak@gmail.com
+2025-12-27 01:37:23 [auth-service] error: Error: User not found
+2025-12-27 01:38:00 [auth-service] info: {
+  _id: new ObjectId('694eeae033a184b3d81cb4eb'),
+  email: 'deepak@gmail.com',
+  firstName: 'deepak',
+  lastName: 'kumar',
+  roles: [ 'doctor' ],
+  status: 'active',
+  createdAt: 2025-12-26T20:06:56.687Z,
+  updatedAt: 2025-12-26T20:07:05.698Z,
+  __v: 0,
+  lastLogin: 2025-12-26T20:07:05.698Z,
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTRlZWFlMDMzYTE4NGIzZDgxY2I0ZWIiLCJpYXQiOjE3NjY3Nzk2MjUsImV4cCI6MTc2NzM4NDQyNSwiaXNzIjoiYXV0aC1zZXJ2aWNlIn0.xYbHv8gVIFG8I7ShtHtVZQF7leLLPM3af_XS307Ja0I'
+}
+2025-12-27 01:38:00 [auth-service] info: ExpiresIn --- 24h
+2025-12-27 01:38:00 [auth-service] info: New access token generated for user: deepak@gmail.com
+2025-12-27 01:38:32 [auth-service] error: Error: User not found
+2025-12-27 01:38:49 [auth-service] error: Error: User not found
+2025-12-27 01:39:19 [auth-service] error: Error: No token provided
+2025-12-27 01:39:46 [auth-service] info: User logged out: deepak@gmail.com
+2025-12-27 11:10:55 [auth-service] info: Connected to MongoDB database
+2025-12-27 11:10:55 [auth-service] info: auth-service is running on port 3001
+2025-12-27 17:44:20 [auth-service] info: Connected to MongoDB database
+2025-12-27 17:44:20 [auth-service] info: auth-service is running on port 3001
+2025-12-27 17:45:02 [auth-service] info: Connected to MongoDB database
+2025-12-27 17:45:02 [auth-service] info: auth-service is running on port 3001

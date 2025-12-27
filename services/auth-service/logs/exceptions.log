@@ -1,0 +1,392 @@
+2025-12-26 23:56:13 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:56:21 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:56:37 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:03 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:11 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:18 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:27 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:34 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:40 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:45 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:57:58 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:58:56 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:59:03 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:59:12 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:59:16 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:59:28 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-26 23:59:40 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-27 00:00:13 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-27 00:00:19 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-27 00:00:22 [auth-service] error: uncaughtException: Unexpected token ')'
+/Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js:22
+        if ()
+            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2025-12-27 00:09:19 [auth-service] error: uncaughtException: Cannot find module 'bcryptjs'
+Require stack:
+- /Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/services/auth.service.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/index.js
+Error: Cannot find module 'bcryptjs'
+Require stack:
+- /Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/services/auth.service.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2025-12-27 00:10:23 [auth-service] error: uncaughtException: Cannot find module 'bcryptjs'
+Require stack:
+- /Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/services/auth.service.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/index.js
+Error: Cannot find module 'bcryptjs'
+Require stack:
+- /Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/services/auth.service.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2025-12-27 00:10:29 [auth-service] error: uncaughtException: Cannot find module 'bcryptjs'
+Require stack:
+- /Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/services/auth.service.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/index.js
+Error: Cannot find module 'bcryptjs'
+Require stack:
+- /Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/services/auth.service.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/controllers/auth.controller.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/routes/auth.route.js
+- /Users/mehhasan/smart-clinic/services/auth-service/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/mehhasan/smart-clinic/services/auth-service/src/models/User.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)

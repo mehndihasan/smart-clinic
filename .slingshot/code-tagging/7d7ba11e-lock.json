@@ -1,0 +1,346 @@
+{
+  "README.md": {
+    "f": "README.md",
+    "p": "README.md",
+    "v": "v1",
+    "c": {
+      "dfcc0b": {
+        "user": "Mehndi Hasan",
+        "model": "gpt-4o",
+        "extraContext": "tbd",
+        "timestamp": 1766292385,
+        "hash": "9dd6ca9e",
+        "messageId": "system_f7002cc0-de27-11f0-8301-3954d22b6e63",
+        "codeBlockId": "system_f7002cc0-de27-11f0-8301-3954d22b6e63-Codeblock-1",
+        "isActive": true,
+        "type": "pasteCode"
+      }
+    },
+    "l": {
+      "0": {
+        "chunkId": "dfcc0b",
+        "hash": "36ba2c7a",
+        "encoded": "#%20Smart%20Clinic%20Web%20Application",
+        "prevChunkIds": []
+      },
+      "2": {
+        "chunkId": "dfcc0b",
+        "hash": "d8b5e6e1",
+        "encoded": "Smart%20Clinic%20is%20a%20web%20application%20designed%20to%20manage%20clinic%20operations%20efficiently%20using%20a%20microservices%20architecture.%20It%20leverages%20modern%20technologies%20such%20as%20Node.js,%20Express,%20MongoDB,%20JWT,%20and%20Kafka%20to%20provide%20a%20scalable%20and%20secure%20platform.",
+        "prevChunkIds": []
+      },
+      "4": {
+        "chunkId": "dfcc0b",
+        "hash": "e665c314",
+        "encoded": "##%20Table%20of%20Contents",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "dfcc0b",
+        "hash": "48ef9a88",
+        "encoded": "-%20%5BArchitecture%5D(#architecture)",
+        "prevChunkIds": []
+      },
+      "7": {
+        "chunkId": "dfcc0b",
+        "hash": "b8802fb1",
+        "encoded": "-%20%5BTechnologies%5D(#technologies)",
+        "prevChunkIds": []
+      },
+      "8": {
+        "chunkId": "dfcc0b",
+        "hash": "7c766f11",
+        "encoded": "-%20%5BInstallation%5D(#installation)",
+        "prevChunkIds": []
+      },
+      "9": {
+        "chunkId": "dfcc0b",
+        "hash": "2492f415",
+        "encoded": "-%20%5BUsage%5D(#usage)",
+        "prevChunkIds": []
+      },
+      "10": {
+        "chunkId": "dfcc0b",
+        "hash": "4c51f94a",
+        "encoded": "-%20%5BMicroservices%5D(#microservices)",
+        "prevChunkIds": []
+      },
+      "11": {
+        "chunkId": "dfcc0b",
+        "hash": "07082ffe",
+        "encoded": "-%20%5BSecurity%5D(#security)",
+        "prevChunkIds": []
+      },
+      "12": {
+        "chunkId": "dfcc0b",
+        "hash": "026dbe15",
+        "encoded": "-%20%5BContributing%5D(#contributing)",
+        "prevChunkIds": []
+      },
+      "13": {
+        "chunkId": "dfcc0b",
+        "hash": "140da56b",
+        "encoded": "-%20%5BLicense%5D(#license)",
+        "prevChunkIds": []
+      },
+      "15": {
+        "chunkId": "dfcc0b",
+        "hash": "9d6a9278",
+        "encoded": "##%20Architecture",
+        "prevChunkIds": []
+      },
+      "17": {
+        "chunkId": "dfcc0b",
+        "hash": "5df4e317",
+        "encoded": "The%20application%20follows%20a%20microservices%20architecture,%20where%20each%20service%20is%20responsible%20for%20a%20specific%20domain%20of%20the%20clinic%20operations.%20The%20services%20communicate%20with%20each%20other%20using%20Kafka%20for%20asynchronous%20messaging.",
+        "prevChunkIds": []
+      },
+      "19": {
+        "chunkId": "dfcc0b",
+        "hash": "7e7b4515",
+        "encoded": "##%20Technologies",
+        "prevChunkIds": []
+      },
+      "21": {
+        "chunkId": "dfcc0b",
+        "hash": "e2867180",
+        "encoded": "-%20**Node.js**:%20JavaScript%20runtime%20for%20building%20scalable%20network%20applications.",
+        "prevChunkIds": []
+      },
+      "22": {
+        "chunkId": "dfcc0b",
+        "hash": "ef450834",
+        "encoded": "-%20**Express**:%20Web%20framework%20for%20Node.js.",
+        "prevChunkIds": []
+      },
+      "23": {
+        "chunkId": "dfcc0b",
+        "hash": "a5e67b12",
+        "encoded": "-%20**MongoDB**:%20NoSQL%20database%20for%20storing%20application%20data.",
+        "prevChunkIds": []
+      },
+      "24": {
+        "chunkId": "dfcc0b",
+        "hash": "f55b58e9",
+        "encoded": "-%20**JWT%20(JSON%20Web%20Tokens)**:%20For%20secure%20authentication%20and%20authorization.",
+        "prevChunkIds": []
+      },
+      "25": {
+        "chunkId": "dfcc0b",
+        "hash": "c7e84963",
+        "encoded": "-%20**Kafka**:%20Distributed%20event%20streaming%20platform%20for%20communication%20between%20microservices.",
+        "prevChunkIds": []
+      },
+      "27": {
+        "chunkId": "dfcc0b",
+        "hash": "cb52a211",
+        "encoded": "##%20Installation",
+        "prevChunkIds": []
+      },
+      "29": {
+        "chunkId": "dfcc0b",
+        "hash": "56ab2174",
+        "encoded": "To%20set%20up%20the%20application%20locally,%20follow%20these%20steps:",
+        "prevChunkIds": []
+      },
+      "31": {
+        "chunkId": "dfcc0b",
+        "hash": "1e3898d1",
+        "encoded": "1.%20Clone%20the%20repository:",
+        "prevChunkIds": []
+      },
+      "32": {
+        "chunkId": "dfcc0b",
+        "hash": "992a1d5e",
+        "encoded": "%60%60%60bash",
+        "prevChunkIds": []
+      },
+      "33": {
+        "chunkId": "dfcc0b",
+        "hash": "3bca418e",
+        "encoded": "git%20clone%20https://github.com/yourusername/smart-clinic.git",
+        "prevChunkIds": []
+      },
+      "34": {
+        "chunkId": "dfcc0b",
+        "hash": "1345d99c",
+        "encoded": "%60%60%60",
+        "prevChunkIds": []
+      },
+      "36": {
+        "chunkId": "dfcc0b",
+        "hash": "cfb4a66e",
+        "encoded": "2.%20Navigate%20to%20the%20project%20directory:",
+        "prevChunkIds": []
+      },
+      "37": {
+        "chunkId": "dfcc0b",
+        "hash": "9fb99b03",
+        "encoded": "%60%60%60bash",
+        "prevChunkIds": []
+      },
+      "38": {
+        "chunkId": "dfcc0b",
+        "hash": "70bf5c6f",
+        "encoded": "cd%20smart-clinic",
+        "prevChunkIds": []
+      },
+      "39": {
+        "chunkId": "dfcc0b",
+        "hash": "ee3aeb44",
+        "encoded": "%60%60%60",
+        "prevChunkIds": []
+      },
+      "41": {
+        "chunkId": "dfcc0b",
+        "hash": "ecd67267",
+        "encoded": "3.%20Install%20dependencies%20for%20each%20microservice:",
+        "prevChunkIds": []
+      },
+      "42": {
+        "chunkId": "dfcc0b",
+        "hash": "37bd9c38",
+        "encoded": "%60%60%60bash",
+        "prevChunkIds": []
+      },
+      "43": {
+        "chunkId": "dfcc0b",
+        "hash": "2ca6247d",
+        "encoded": "cd%20services/authentication",
+        "prevChunkIds": []
+      },
+      "44": {
+        "chunkId": "dfcc0b",
+        "hash": "be5ac8ed",
+        "encoded": "npm%20install",
+        "prevChunkIds": []
+      },
+      "45": {
+        "chunkId": "dfcc0b",
+        "hash": "2b026654",
+        "encoded": "cd%20../patient-management",
+        "prevChunkIds": []
+      },
+      "46": {
+        "chunkId": "dfcc0b",
+        "hash": "fe9d803d",
+        "encoded": "npm%20install",
+        "prevChunkIds": []
+      },
+      "47": {
+        "chunkId": "dfcc0b",
+        "hash": "3d36fe32",
+        "encoded": "#%20Repeat%20for%20other%20services",
+        "prevChunkIds": []
+      },
+      "48": {
+        "chunkId": "dfcc0b",
+        "hash": "6770b6ad",
+        "encoded": "%60%60%60",
+        "prevChunkIds": []
+      },
+      "50": {
+        "chunkId": "dfcc0b",
+        "hash": "c3b6c284",
+        "encoded": "4.%20Start%20the%20services%20using%20a%20process%20manager%20like%20PM2%20or%20Docker.",
+        "prevChunkIds": []
+      },
+      "52": {
+        "chunkId": "dfcc0b",
+        "hash": "5572ef71",
+        "encoded": "##%20Usage",
+        "prevChunkIds": []
+      },
+      "54": {
+        "chunkId": "dfcc0b",
+        "hash": "7036be63",
+        "encoded": "1.%20Start%20the%20Kafka%20server%20and%20ensure%20all%20microservices%20are%20running.",
+        "prevChunkIds": []
+      },
+      "55": {
+        "chunkId": "dfcc0b",
+        "hash": "79bb46ea",
+        "encoded": "2.%20Access%20the%20application%20via%20the%20web%20interface%20at%20%60http://localhost:3000%60.",
+        "prevChunkIds": []
+      },
+      "57": {
+        "chunkId": "dfcc0b",
+        "hash": "cea9462c",
+        "encoded": "##%20Microservices",
+        "prevChunkIds": []
+      },
+      "59": {
+        "chunkId": "dfcc0b",
+        "hash": "364fcc3a",
+        "encoded": "-%20**Authentication%20Service**:%20Manages%20user%20authentication%20and%20authorization%20using%20JWT.",
+        "prevChunkIds": []
+      },
+      "60": {
+        "chunkId": "dfcc0b",
+        "hash": "19c4b415",
+        "encoded": "-%20**Patient%20Management%20Service**:%20Handles%20patient%20records%20and%20appointments.",
+        "prevChunkIds": []
+      },
+      "61": {
+        "chunkId": "dfcc0b",
+        "hash": "5df16373",
+        "encoded": "-%20**Notification%20Service**:%20Sends%20notifications%20to%20patients%20and%20staff.",
+        "prevChunkIds": []
+      },
+      "62": {
+        "chunkId": "dfcc0b",
+        "hash": "39396016",
+        "encoded": "-%20**Billing%20Service**:%20Manages%20billing%20and%20payments.",
+        "prevChunkIds": []
+      },
+      "64": {
+        "chunkId": "dfcc0b",
+        "hash": "1920fe45",
+        "encoded": "##%20Security",
+        "prevChunkIds": []
+      },
+      "66": {
+        "chunkId": "dfcc0b",
+        "hash": "b783bdb4",
+        "encoded": "-%20All%20sensitive%20data%20is%20encrypted.",
+        "prevChunkIds": []
+      },
+      "67": {
+        "chunkId": "dfcc0b",
+        "hash": "ff43eb0c",
+        "encoded": "-%20JWT%20is%20used%20for%20secure%20authentication%20and%20authorization.",
+        "prevChunkIds": []
+      },
+      "68": {
+        "chunkId": "dfcc0b",
+        "hash": "41d2adb3",
+        "encoded": "-%20Environment%20variables%20are%20used%20for%20configuration%20to%20avoid%20hardcoding%20sensitive%20information.",
+        "prevChunkIds": []
+      },
+      "70": {
+        "chunkId": "dfcc0b",
+        "hash": "32567fb2",
+        "encoded": "##%20Contributing",
+        "prevChunkIds": []
+      },
+      "72": {
+        "chunkId": "dfcc0b",
+        "hash": "9df3922c",
+        "encoded": "Contributions%20are%20welcome!%20Please%20read%20the%20%5Bcontributing%20guidelines%5D(CONTRIBUTING.md)%20for%20more%20details.",
+        "prevChunkIds": []
+      },
+      "74": {
+        "chunkId": "dfcc0b",
+        "hash": "39e4b45c",
+        "encoded": "##%20License",
+        "prevChunkIds": []
+      },
+      "76": {
+        "chunkId": "dfcc0b",
+        "hash": "259e627e",
+        "encoded": "This%20project%20is%20licensed%20under%20the%20MIT%20License.%20See%20the%20%5BLICENSE%5D(LICENSE)%20file%20for%20details.",
+        "prevChunkIds": []
+      }
+    }
+  }
+}

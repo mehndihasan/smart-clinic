@@ -1,0 +1,33 @@
+2025-12-25 19:57:45 [auth-service] error: Error connecting to MongoDB database: options usenewurlparser, useunifiedtopology are not supported
+2025-12-25 19:59:45 [auth-service] error: Error connecting to MongoDB database: options usenewurlparser, useunifiedtopology are not supported
+2025-12-25 20:19:44 [auth-service] error: Error connecting to MongoDB database: options usenewurlparser, useunifiedtopology are not supported
+2025-12-27 01:11:07 [auth-service] error: Error: User with this email already exists
+2025-12-27 01:12:20 [auth-service] error: Error: User with this email already exists
+2025-12-27 01:12:40 [auth-service] error: Error: User with this email already exists
+2025-12-27 01:14:35 [auth-service] error: Error: Invalid access token
+2025-12-27 01:21:03 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:21:27 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:21:43 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:22:42 [auth-service] error: Error: Invalid access token
+2025-12-27 01:23:59 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:24:25 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:24:26 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:24:26 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:26:08 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:26:53 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:27:27 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:28:57 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:29:35 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:30:27 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:30:39 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:30:59 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:17 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:28 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:43 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:31:56 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:32:11 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:36:39 [auth-service] error: Error: Invalid or expired refresh token provided
+2025-12-27 01:37:23 [auth-service] error: Error: User not found
+2025-12-27 01:38:32 [auth-service] error: Error: User not found
+2025-12-27 01:38:49 [auth-service] error: Error: User not found
+2025-12-27 01:39:19 [auth-service] error: Error: No token provided

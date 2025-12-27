@@ -1,0 +1,282 @@
+{
+  "src/utils/logger.js": {
+    "f": "logger.js",
+    "p": "src/utils/logger.js",
+    "v": "v1",
+    "c": {
+      "2cfe83": {
+        "user": "Mehndi Hasan",
+        "model": "gpt-5",
+        "extraContext": "tbd",
+        "timestamp": 1766664526,
+        "hash": "b395a08f",
+        "messageId": "system_20d064b0-e18a-11f0-b10d-39715b33efd9",
+        "codeBlockId": "system_20d064b0-e18a-11f0-b10d-39715b33efd9-Codeblock-1",
+        "isActive": true,
+        "type": "pasteCode"
+      },
+      "140c37": {
+        "user": "Mehndi Hasan",
+        "model": "gpt-5",
+        "extraContext": "tbd",
+        "timestamp": 1766670807,
+        "hash": "7ee732c8",
+        "messageId": "system_e154e040-e198-11f0-b10d-39715b33efd9",
+        "codeBlockId": "system_e154e040-e198-11f0-b10d-39715b33efd9-Codeblock-1",
+        "isActive": true,
+        "type": "pasteCode"
+      },
+      "643e38": {
+        "user": "Mehndi Hasan",
+        "model": "gpt-5",
+        "extraContext": "tbd",
+        "timestamp": 1766671038,
+        "hash": "aa0db516",
+        "messageId": "system_e154e040-e198-11f0-b10d-39715b33efd9",
+        "codeBlockId": "system_e154e040-e198-11f0-b10d-39715b33efd9-Codeblock-1",
+        "isActive": true,
+        "type": "pasteCode"
+      },
+      "45d3b6": {
+        "user": "Mehndi Hasan",
+        "model": "gpt-5",
+        "extraContext": "tbd",
+        "timestamp": 1766671771,
+        "hash": "0311f67e",
+        "messageId": "system_e154e040-e198-11f0-b10d-39715b33efd9",
+        "codeBlockId": "system_e154e040-e198-11f0-b10d-39715b33efd9-Codeblock-1",
+        "isActive": true,
+        "type": "pasteCode"
+      },
+      "7a2843": {
+        "user": "Mehndi Hasan",
+        "model": "gpt-5",
+        "extraContext": "tbd",
+        "timestamp": 1766671778,
+        "hash": "dd933a43",
+        "messageId": "system_e154e040-e198-11f0-b10d-39715b33efd9",
+        "codeBlockId": "system_e154e040-e198-11f0-b10d-39715b33efd9-Codeblock-1",
+        "isActive": true,
+        "type": "pasteCode"
+      }
+    },
+    "l": {
+      "0": {
+        "chunkId": "140c37",
+        "hash": "52a22f68",
+        "encoded": "const%20winston%20=%20require('winston');",
+        "prevChunkIds": [
+          "140c37"
+        ]
+      },
+      "1": {
+        "chunkId": "45d3b6",
+        "hash": "9133e718",
+        "encoded": "const%20fs%20=%20require('fs');",
+        "prevChunkIds": [
+          "45d3b6"
+        ]
+      },
+      "2": {
+        "chunkId": "7a2843",
+        "hash": "1cae0f7c",
+        "encoded": "const%20path%20=%20require('path');",
+        "prevChunkIds": []
+      },
+      "3": {
+        "chunkId": "2cfe83",
+        "hash": "b00ee7c8",
+        "encoded": "const%20config%20=%20require('../config');",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "9": {
+        "chunkId": "2cfe83",
+        "hash": "2ce165fa",
+        "encoded": "%7D",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "12": {
+        "chunkId": "2cfe83",
+        "hash": "d052afb8",
+        "encoded": "winston.addColors(%7B",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "13": {
+        "chunkId": "2cfe83",
+        "hash": "3a6bd5e9",
+        "encoded": "error:%20'red',",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "14": {
+        "chunkId": "2cfe83",
+        "hash": "ba84837e",
+        "encoded": "warn:%20'yellow',",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "15": {
+        "chunkId": "2cfe83",
+        "hash": "45e02ebe",
+        "encoded": "info:%20'green',",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "16": {
+        "chunkId": "2cfe83",
+        "hash": "61234a4a",
+        "encoded": "http:%20'magenta',",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "17": {
+        "chunkId": "2cfe83",
+        "hash": "afeb3d54",
+        "encoded": "debug:%20'white'",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "18": {
+        "chunkId": "2cfe83",
+        "hash": "ff07c7b3",
+        "encoded": "%7D);",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "22": {
+        "chunkId": "2cfe83",
+        "hash": "99d00f82",
+        "encoded": "return%20%60$%7Binfo.timestamp%7D%20%5B$%7Bconfig.serviceName%7D%5D%20$%7Binfo.level%7D:%20$%7Binfo.message%7D%60;",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "23": {
+        "chunkId": "2cfe83",
+        "hash": "98201597",
+        "encoded": "%7D);",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "27": {
+        "chunkId": "140c37",
+        "hash": "ff998ff4",
+        "encoded": "winston.format.timestamp(%7B%20format:%20'YYYY-MM-DD%20HH:mm:ss'%20%7D),",
+        "prevChunkIds": [
+          "140c37",
+          "2cfe83"
+        ]
+      },
+      "30": {
+        "chunkId": "140c37",
+        "hash": "a33aebc0",
+        "encoded": "line",
+        "prevChunkIds": [
+          "140c37"
+        ]
+      },
+      "35": {
+        "chunkId": "140c37",
+        "hash": "8bc614ec",
+        "encoded": "winston.format.timestamp(%7B%20format:%20'YYYY-MM-DD%20HH:mm:ss'%20%7D),",
+        "prevChunkIds": [
+          "140c37",
+          "2cfe83"
+        ]
+      },
+      "36": {
+        "chunkId": "140c37",
+        "hash": "237a17a0",
+        "encoded": "line",
+        "prevChunkIds": [
+          "140c37"
+        ]
+      },
+      "40": {
+        "chunkId": "2cfe83",
+        "hash": "711bf142",
+        "encoded": "const%20logger%20=%20winston.createLogger(%7B",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "49": {
+        "chunkId": "643e38",
+        "hash": "b17d79d4",
+        "encoded": "format:%20fileFormat,%20//%20default%20for%20file%20transports",
+        "prevChunkIds": [
+          "643e38"
+        ]
+      },
+      "50": {
+        "chunkId": "2cfe83",
+        "hash": "07a5d8ae",
+        "encoded": "transports:%20%5B",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "55": {
+        "chunkId": "2cfe83",
+        "hash": "622daab0",
+        "encoded": "new%20winston.transports.File(%7B",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "57": {
+        "chunkId": "2cfe83",
+        "hash": "04f8647a",
+        "encoded": "level:%20'error'",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "58": {
+        "chunkId": "2cfe83",
+        "hash": "3d0de557",
+        "encoded": "%7D),",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "61": {
+        "chunkId": "2cfe83",
+        "hash": "66bcdf98",
+        "encoded": "new%20winston.transports.File(%7B",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "74": {
+        "chunkId": "2cfe83",
+        "hash": "9300d994",
+        "encoded": "if%20(config.nodeEnv%20!==%20'production')%20%7B",
+        "prevChunkIds": [
+          "2cfe83"
+        ]
+      },
+      "80": {
+        "chunkId": "140c37",
+        "hash": "67ab7079",
+        "encoded": "module.exports%20=%20logger;",
+        "prevChunkIds": [
+          "140c37"
+        ]
+      }
+    }
+  }
+}
