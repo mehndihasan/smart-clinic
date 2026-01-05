@@ -31,3 +31,6 @@
 2025-12-27 01:38:32 [auth-service] error: Error: User not found
 2025-12-27 01:38:49 [auth-service] error: Error: User not found
 2025-12-27 01:39:19 [auth-service] error: Error: No token provided
+2026-01-03 09:47:27 [auth-service] error: Error: Invalid access token
+2026-01-03 09:48:01 [auth-service] error: Error: Invalid access token
+2026-01-03 09:49:15 [auth-service] error: Error: Invalid access token

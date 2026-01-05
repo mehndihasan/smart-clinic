@@ -1,9 +1,9 @@
 {
   "src/utils/logger.js": {
-    "f": "logger.js",
-    "p": "src/utils/logger.js",
-    "v": "v1",
-    "c": {
+    "filename": "logger.js",
+    "path": "src/utils/logger.js",
+    "version": "1.1",
+    "chunks": {
       "2cfe83": {
         "user": "Mehndi Hasan",
         "model": "gpt-5",
@@ -60,7 +60,7 @@
         "type": "pasteCode"
       }
     },
-    "l": {
+    "lines": {
       "0": {
         "chunkId": "140c37",
         "hash": "52a22f68",
